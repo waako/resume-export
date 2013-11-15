@@ -17,8 +17,11 @@ Dislikes: static web page design PSDs, messy markup, multi-national corporations
 ##  Experience
 
 ### Cabinet Office
-_10 / 2013 - Present_  
+_10 / 2013 - 11 / 2013_  
 Drupal Themer
+
+Delivered responsive Drupal theme for redesigned http://data.gov.uk on short notice and to tight deadline.
+All frontend assets (css/js/fonts/images) were shared with CKAN templates in a separate repository, to allow as much reusability of code as possible.
 
 ### Narcolepsy UK  
 _08 / 2011 - 09 / 2013_  
